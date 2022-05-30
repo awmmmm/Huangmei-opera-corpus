@@ -5,5 +5,5 @@ we put example in folder example
 ## Citation
 
 ## Acknowledgements
-* [Diffsinger](https://github.com/lucidrains/denoising-diffusion-pytorch](https://github.com/MoonInTheRiver/DiffSinger)
+* [Diffsinger](https://github.com/MoonInTheRiver/DiffSinger)
 
