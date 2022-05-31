@@ -8,5 +8,5 @@ you can see our work HuangmeiSinger in [demo video](https://drive.google.com/fil
 ## Citation
 
 ## Acknowledgements
-* [Diffsinger](https://github.com/MoonInTheRiver/DiffSinger)
+
 
